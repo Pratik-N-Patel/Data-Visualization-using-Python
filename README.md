@@ -1,2 +1,2 @@
-# Data-Visulization-using-Python
+# Data-Visualization-using-Python
 Analyzing Survey of different data science topics and Visualizing Crime rate of San Francisco
